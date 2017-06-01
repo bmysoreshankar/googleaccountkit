@@ -1,0 +1,21 @@
+{
+  "name": "googleaccountkit",
+  "description": "google account kit integration with pp",
+  "main": "index.js",
+  "author": "bhavya shankar",
+  "moduleType": [
+    "amd"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "^2.1.16"
+  }
+}
